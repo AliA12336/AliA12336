@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! 👋
 
 <!--
 **AliA12336/AliA12336** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&size=30&duration=3500&color=F77171&background=FFFFFF00&lines=Welcome+to+Ali's+Github!)](https://git.io/typing-svg)
+
